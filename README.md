@@ -1,4 +1,4 @@
-# Minimal Library Explorer Frontend System 📚
+# Project: Minimal Library Explorer Frontend System 📚
 
 ## **Project Overview**
 
