@@ -1,0 +1,1 @@
+export const description: string = `Discover, borrow, and manage books with ease. As an explorer, you can browse through a wide range of books, track your borrowings, and stay updated on due dates — all in one place.`
